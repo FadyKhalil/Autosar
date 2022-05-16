@@ -1,5 +1,6 @@
 # [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Autosar_Logo.svg/1200px-Autosar_Logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Autosar_Logo.svg/1200px-Autosar_Logo.svg.png)
 *This Repo Represent All Work I Have Done Using Autosar And All Documents I Read Related To Autosar*
+*The Drivers Written **ARE SEMI COMPLIANT TO AUTOSAR**
 
 ## Resources
 - Autosar Concept
